@@ -19,8 +19,7 @@ This project is an interactive Power BI dashboard built using the AdventureWorks
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
-
+![Dashboard](Dashboard.png)
 ## Files
 - AdventureWorks.pbix
 - Dashboard Screenshot
